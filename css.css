@@ -19,10 +19,9 @@ img{
 }
 
 .bg{
-    background: url(bg.jpg) center no-repeat;
-    background-size: cover;
-    width: 200vw;
-    height: 200vh;
+    background: url(bg.jpg) center;
+    width: 500vw;
+    height: 500vh;
     position: fixed;
 }
 
